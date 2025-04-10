@@ -1,0 +1,12 @@
+{
+	"id":"socialite_sopherhomebrews",
+        "image": [
+            https://github.com/v4rii/SopherHomebrews/blob/main/Socialite/Socialite_good.png?raw=true",
+            https://github.com/v4rii/SopherHomebrews/blob/main/Socialite/Socialite_evil.png?raw=true"
+        ],
+	"reminders":["No ability"],
+	"name":"Socialite",
+	"team":"townsfolk",
+	"ability":"Once per game, visit the Storyteller with other players: if all are townsfolk, all learn this [+0 to +1 outsiders]"
+	"substitution": [virgin, artist, fisherman]
+},
