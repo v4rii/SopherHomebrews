@@ -11,7 +11,7 @@
 	"jinxes": [
 		{
                 "id": "boffin",
-                "reason": "if the demon has the socialite ability, it registers as a townsfolk to itself"
+                "reason": "The Socialite registers as a townsfolk to itself"
 		}
 	],
 },

@@ -5,7 +5,7 @@
 	"reminders":["Guessed"],
 	"name":"Squirrel",
 	"team":"outsider",
-	"ability": "Evil know the object you start with. if you hold it at night*, Evil learn you. If a Minion publicly guesses it's location at dusk (once), they win, even if dead.",
+	"ability": "Minions know your object. if you hold it at night*, Evil learn you. If a Minion publicly guesses it's location at dusk (once), your team loses, even if dead.",
 	"firstNight":13.069,
 	"otherNight":62.069
 },
