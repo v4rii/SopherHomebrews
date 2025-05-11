@@ -1,0 +1,11 @@
+{
+	"id":"P.I._sopherhomebrews",
+        "image": [
+            "https://github.com/v4rii/SopherHomebrews/blob/main/P.I/GOOD.png?raw=true",
+            "https://github.com/v4rii/SopherHomebrews/blob/main/P.I/EVIL.png?raw=true"
+        ],
+	"reminders":["Connected"],
+	"name":"P.I.",
+	"team":"townsfolk",
+	"ability":"start knowing players with a unique connection. each day, privately guess what this connection is and learn how accurate you are"
+},
