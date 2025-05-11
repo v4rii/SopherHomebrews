@@ -7,5 +7,5 @@
 	"reminders":["Connected"],
 	"name":"P.I.",
 	"team":"townsfolk",
-	"ability":"start knowing players with a unique connection. each day, privately guess what this connection is and learn how accurate you are"
+	"ability":"You start knowing players with a unique connection. each day, privately guess what this connection is and learn how accurate you are"
 },
