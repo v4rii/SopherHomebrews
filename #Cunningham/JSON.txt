@@ -1,3 +1,4 @@
+{
   "id": "Cunningham_sopherhomebrews",
   "otherNightReminder": "show a player of the opposite allignment to the corrector",
   "reminders": ["Corrector"],
@@ -5,4 +6,4 @@
   "team": "traveler",
   "ability": "the first time each day you are corrected on the rules, learn a player opposite the corrector's allignment",
   "otherNight": 1
-}
+},
