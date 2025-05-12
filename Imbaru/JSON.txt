@@ -1,0 +1,11 @@
+{
+"id":"Imbaru_sopherhomebrews",
+"firstNightReminder":"Wake the Imbaru, and have them choose a player; if that player is mad about something incorrect, they might die at any time",
+"otherNightReminder":"Wake the Imbaru, and have them choose 2 players; the first dies, and if that player is mad about something incorrect, they might die at any time",
+"reminders":["Mad"],
+"name":"Imbaru",
+"team":"Demon",
+"ability": "Each night, choose 1 + 1* players: the 2nd dies* & the 1st might at any time if they are mad about a false statement tomorrow",
+"firstNight":23.069,
+"otherNight":44.069
+},
