@@ -1,8 +1,8 @@
 {
 	"id":"P.I._sopherhomebrews",
         "image": [
-            "https://github.com/v4rii/SopherHomebrews/blob/main/P.I/GOOD.png?raw=true",
-            "https://github.com/v4rii/SopherHomebrews/blob/main/P.I/EVIL.png?raw=true"
+            "https://github.com/v4rii/SopherHomebrews/blob/main/T-P.I/GOOD.png?raw=true",
+            "https://github.com/v4rii/SopherHomebrews/blob/main/T-P.I/EVIL.png?raw=true"
         ],
 	"reminders":["Connected"],
 	"name":"P.I.",

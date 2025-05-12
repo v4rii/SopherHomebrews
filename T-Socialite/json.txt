@@ -1,8 +1,8 @@
 {
 	"id":"socialite_sopherhomebrews",
         "image": [
-            "https://github.com/v4rii/SopherHomebrews/blob/main/Socialite/Socialite_good.png?raw=true",
-            "https://github.com/v4rii/SopherHomebrews/blob/main/Socialite/Socialite_evil.png?raw=true"
+            "https://github.com/v4rii/SopherHomebrews/blob/main/T-Socialite/Socialite_good.png?raw=true",
+            "https://github.com/v4rii/SopherHomebrews/blob/main/T-Socialite/Socialite_evil.png?raw=true"
         ],
 	"reminders":["No ability"],
 	"name":"Socialite",
