@@ -2,7 +2,7 @@
 "id":"Trolley-operator_sopherhomebrews",
 "firstNightReminder":"Wake the trolley operator, show them two statements, and ask them to choose. do the same for the demon. if they chose the same, it happens",
 "otherNightReminder":"Wake the trolley operator, show them two statements, and ask them to choose. do the same for the demon. if they chose the same, it happens",
-"name":"Trolley operator",
+"name":"Trolley operator♡",
 "team":"outsider",
 "ability": "Each night, you & the demon learn 2 events & choose 1: if you make the same choice, it happens",
 "firstNight":51.069,

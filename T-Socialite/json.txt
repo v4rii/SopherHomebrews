@@ -5,7 +5,7 @@
             "https://github.com/v4rii/SopherHomebrews/blob/main/T-Socialite/Socialite_evil.png?raw=true"
         ],
 	"reminders":["No ability"],
-	"name":"Socialite",
+	"name":"Socialite♡",
 	"team":"townsfolk",
 	"ability":"Once per game, visit the Storyteller with other players: if all are townsfolk, all learn this [+0 to +1 outsiders]"
 	"jinxes": [

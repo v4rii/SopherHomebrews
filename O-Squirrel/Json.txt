@@ -3,7 +3,7 @@
 	"firstNightReminder":"during minion info, show all minions the squirrel's object. then wake the squirrel and give it to them",
 	"otherNightReminder":"Wake the squirrel and ask if they are holding the object.",
 	"reminders":["Guessed"],
-	"name":"Squirrel",
+	"name":"Squirrel♡",
 	"team":"outsider",
 	"ability": "Minions know your object. if you hold it at night*, Evil learn you. If a Minion publicly guesses it's location at dusk (once), your team loses, even if dead.",
 	"firstNight":13.069,

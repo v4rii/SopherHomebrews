@@ -6,7 +6,7 @@
         ],
 	"firstNightReminder":"Wake the P.I. and show them any number of players who are linked by a unique connection. This connection must be such that it pertains to all learned players, and no unlearned players",
 	"reminders":["Connected"],
-	"name":"P.I.",
+	"name":"P.I.♡",
 	"team":"townsfolk",
 	"ability":"You start knowing players with a unique connection. each day, privately guess what this connection is and learn how accurate you are"
 },
