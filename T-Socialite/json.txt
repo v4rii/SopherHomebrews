@@ -11,7 +11,7 @@
 	"jinxes": [
 		{
                 "id": "boffin",
-                "reason": "The Socialite registers as a townsfolk to itself"
+                "reason": "Players with the Socialite registers as a townsfolk to itself"
 		}
 	],
 },
