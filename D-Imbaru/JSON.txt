@@ -1,8 +1,12 @@
 {
 "id":"Imbaru_sopherhomebrews",
-"firstNightReminder":"Wake the Imbaru, and have them choose a player; if that player is mad about something incorrect, they might die at any time (before the imbaru chooses again)",
-"otherNightReminder":"Wake the Imbaru, and have them choose 2 players; the first dies, and if that player is mad about something incorrect, they might die at any time (before the imbaru chooses again)",
-"reminders":["Mad"],
+"image": [
+    "https://github.com/v4rii/SopherHomebrews/blob/main/D-Imbaru/EVIL.png?raw=true",
+    "https://github.com/v4rii/SopherHomebrews/blob/main/D-Imbaru/GOOD.png?raw=true"
+],
+"firstNightReminder":"Wake the Imbaru, and have them choose a player; mark that player with the "Selected for tribute" reminder token. if that player is mad about something incorrect, they might die at any time (before the imbaru chooses again)",
+"otherNightReminder":"Wake the Imbaru, and have them choose 2 players; the first dies, and mark the second player with the "Selected for tribute" reminder token.  if that player is mad about something incorrect, they might die at any time (before the imbaru chooses again)",
+"reminders":["Selected for tribute"],
 "name":"Imbaru",
 "team":"demon",
 "ability": "Each night, choose 2 players: the 1st dies* & the 2nd might if they are mostly incorrect tomorrow",

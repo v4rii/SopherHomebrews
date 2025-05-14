@@ -4,7 +4,7 @@
             "https://github.com/v4rii/SopherHomebrews/blob/main/T-P.I/GOOD.png?raw=true",
             "https://github.com/v4rii/SopherHomebrews/blob/main/T-P.I/EVIL.png?raw=true"
         ],
-"firstNightReminder":"Wake the P.I. and show them any number of players who are linked by a unique connection. This connection must be such that it pertains to all learned players, and no unlearned players",
+	"firstNightReminder":"Wake the P.I. and show them any number of players who are linked by a unique connection. This connection must be such that it pertains to all learned players, and no unlearned players",
 	"reminders":["Connected"],
 	"name":"P.I.",
 	"team":"townsfolk",
