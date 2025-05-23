@@ -1,9 +1,12 @@
 {
 "id":"Raqi_sopherhomebrews",
-"firstNightReminder":"Wake the Raqi and show them demon info; 3 pieces (including what demon they are, the out of play roles, the minions, and any unique info i.e. yagababble phrase) are true",
+"firstNightReminder":"Wake the Raqi and show them demon info; 3 pieces (including what demon they are, each out of play role, each minion, and any unique info i.e. yagababble phrase) are true",
 "reminders":["True Info"],
 "name":"Raqi♡",
 "team":"townsfolk",
 "ability": "You think you are a Demon, but you are not. Exactly 3 pieces of your demon info are true.",
-"firstNight":15
+"firstNight":15,
+"firstNightReminder" : "Wake the Raqi to provide their Demon info.",
+"otherNight":30.1,
+"otherNightReminder": "Wake the Raqi and have them choose as if they were the Demon."
 },

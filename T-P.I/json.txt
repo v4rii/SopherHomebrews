@@ -4,9 +4,10 @@
             "https://github.com/v4rii/SopherHomebrews/blob/main/T-P.I/GOOD.png?raw=true",
             "https://github.com/v4rii/SopherHomebrews/blob/main/T-P.I/EVIL.png?raw=true"
         ],
-	"firstNightReminder":"Wake the P.I. and show them any number of players who are linked by a unique connection. This connection must be such that it pertains to all learned players, and no unlearned players",
-	"reminders":["Connected"],
+	"firstNightReminder": "Point to all players marked as *CONNECTED*",
+	"reminders": ["Connected", "Connected", "Connected", "Connected", "Connected"],
 	"name":"P.I.♡",
-	"team":"townsfolk",
+	"team": "townsfolk",
+	"firstNight": 45.2,
 	"ability":"You start knowing players with a unique connection. each day, privately guess what this connection is and learn how accurate you are"
 },
