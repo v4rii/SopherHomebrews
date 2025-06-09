@@ -7,11 +7,5 @@
 	"reminders":["No ability"],
 	"name":"Socialite♡",
 	"team":"townsfolk",
-	"ability":"Once per game, visit the Storyteller with other players: if all are townsfolk, all learn this [+0 to +1 outsiders]"
-	"jinxes": [
-		{
-                "id": "boffin",
-                "reason": "Players with the socialite's ability register as townsfolk during their own party"
-		}
-	],
+	"ability":"Once per game, visit the Storyteller with other players: if all others are townsfolk, all learn this [+0 to +1 outsiders]",
 },
