@@ -19,7 +19,7 @@
     "id": "socialite_sopherhomebrews",
     "name": "Socialite♡",
     "team": "townsfolk",
-    "ability": "Once per game, visit the Storyteller with other players: if all are townsfolk, all learn this [+0 to +1 outsiders]",
+    "ability": "Once per game, visit the Storyteller with other players: if all others are townsfolk, all learn this [+0 to +1 outsiders]",
     "firstNight": 0,
     "otherNight": 0,
     "reminders": [
@@ -30,12 +30,6 @@
       "https://github.com/v4rii/SopherHomebrews/blob/main/T-Socialite/Socialite_evil.png?raw=true"
     ],
     "setup": false,
-    "jinxes": [
-      {
-        "id": "boffin",
-        "reason": "The Socialite registers as townsfolk to their own abilitiy"
-      }
-    ]
   },
   "banshee",
   "recluse",
